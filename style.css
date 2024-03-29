@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    background-color: turquoise;
+}
+
+img {
+    height: 500px;
+    width: 500px;
+}
+
+.a {
+    text-align: center;
+}
+
+.b {
+    color: white;
+    text-align: center;
+    background-image: linear-gradient(red,blue);
+}
